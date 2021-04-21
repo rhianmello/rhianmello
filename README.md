@@ -17,7 +17,7 @@ Noções básicas como Python e Java.
  
 ## Ruby Gems
 
-[![Github Badge](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+<img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg?raw=true">
 * CSS
 * Java Script
 * Python 
