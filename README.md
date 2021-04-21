@@ -5,8 +5,9 @@
 <a  href ="https://github.com/anuraghazra//github-readme-stats"> 
   <img  align="center" src ="https://github-readme-stats.vercel.app/api?username=rhianmello&theme=dark&show_icons=true"/>
  </a> 
-<a  href ="https://github.com/rhianmello/convoychat" > 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhianmello&repo=convoychat"/>
+<a  href ="https://github.com/anuraghazra/convoychat" > 
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhianmello&theme=dark&show_icons=true)
+"/>
  </a>
 
 <br><br><br><br><br> 
