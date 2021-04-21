@@ -1,4 +1,4 @@
-# Olá, bem-vindo!!!
+# Olá, seja bem-vindo!!!
 
 <img align="center" width=100% src="https://github.com/rhianmello/projeto-site/blob/main/img/matrixxxx.jpg?raw=true">
 <img align="right" width=47% height="350" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
@@ -15,6 +15,7 @@
 
 <br/><br/>
 <br/>
+##
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg?raw=true">
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg?raw=true">
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg?raw=true">
