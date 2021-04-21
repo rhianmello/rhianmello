@@ -18,9 +18,10 @@ Noções básicas como Python e Java.
 ## Ruby Gems
 
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg?raw=true">
-* CSS
-* Java Script
-* Python 
+<img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg?raw=true">
+<img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg?raw=true">
+<img align="right" width="56" height="56" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg?raw=true">
+<img align="right" width="56" height="56" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?raw=true">
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rhianmello)
