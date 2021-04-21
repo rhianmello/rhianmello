@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/pp4.jpg?raw=true">
+<img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/pp.jpg?raw=true">
  
 # Welcome!
  
