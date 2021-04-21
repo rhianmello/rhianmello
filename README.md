@@ -2,8 +2,8 @@
 
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
 <table>
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rhianmello&theme=buefy"/></td>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&hide=html&layout=compact&theme=buefy" /></td>
+<td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=rhianmello&theme=buefy"/></td>
+<td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&hide=html&layout=compact&theme=buefy" /></td>
 </table>
 
  
