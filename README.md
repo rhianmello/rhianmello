@@ -7,8 +7,8 @@
 <a  href ="https://github.com/anuraghazra/convoychat" > 
   <img align="left" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&theme=chartreuse-dark&show_icons=true"/>
  </a>
-##
-
+<br>
+<br>
 <br>
 ## Ruby Gems<br/><br/>
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg?raw=true">
