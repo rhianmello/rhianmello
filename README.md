@@ -1,13 +1,13 @@
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
  
-# Welcome!
+# Olá
  
-## I'm Rhian Mello!
+## Eu sou Rhian Mello!
  
-I am more passionate about technology that is migrating from the naval area to a developer.
-Seeking replacement in the job market.
-At the moment, delving into Front End.
-Basics like Python and Java.
+Sou mais um apaixonado pela tecnologia que está migrando da áreal naval para desenvolvedor.
+Buscando recolocação no mercado de trabalho. 
+No momento me aprofundando em Front End.
+Noções básicas como Python e Java.
  
 ## Services Used
  
@@ -17,7 +17,7 @@ Basics like Python and Java.
  
 ## Ruby Gems
 
-* HTML
+[![Github Badge](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
 * CSS
 * Java Script
 * Python 
