@@ -2,7 +2,7 @@
 
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhianmello&show_icons=true&theme=radical)
+![Anurag's GitHub stats](align="left" https://github-readme-stats.vercel.app/api?username=rhianmello&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&layout=compact)](https://github.com/rhianmello/github-readme-stats)
 
 <br><br><br><br><br> 
