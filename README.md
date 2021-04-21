@@ -2,10 +2,10 @@
 
 <img align="right" width="300" height="300" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
 
-<img height="180em" src="https://camo.githubusercontent.com/3c24aec867e74c49be79354e84aa047ae100bcb48d2aa6fdb44bfbbdfe0fc698/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d67726561742d676174736279" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rhianmello&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+<img height="180em" src="https://camo.githubusercontent.com/610b8deb85e8b7467cc3c8a6a0bb0dcf006988024d9caba1dd1d875dc0b4b1ab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d68696768636f6e7472617374" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rhianmello&amp; show_icons=true&amp; theme=dracula&amp; include_all_commits=true&amp; count_private=true" style="max-width:100%;">
 
 
-<img height="180em" src="https://camo.githubusercontent.com/a3ecd60a26c41c405a9f595e377571661ca70e4ca11e6bd359c50b816e380f1a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d67726561742d676174736279" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&amp;layout=compact&amp;langs_count=8&amp;theme=dracula" style="max-width:100%;">
+<img height="180em" src="https://camo.githubusercontent.com/f0230186ef34b975a0d76bbeb9b25e3ba9955c3fe1cd1c47519dbfe7532cccf2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d68696768636f6e7472617374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&amp; layout=compact&amp;langs_count=8&amp;theme=dracula" style="max-width:100%;">
 
 <br><br><br><br><br> 
 
