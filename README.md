@@ -5,7 +5,7 @@
   <img  align="left" width="400" src ="https://github-readme-stats.vercel.app/api?username=rhianmello&theme=chartreuse-dark&show_icons=true"/>
  </a> 
 <a  href ="https://github.com/anuraghazra/convoychat" > 
-  <img align="left" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&theme=chartreuse-dark&show_icons=true"/>
+  <img align="left" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello& layout=compact&show_icons=true"/>
  </a>
 ##
 
