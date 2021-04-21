@@ -1,8 +1,7 @@
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
  
 # Olá! Me chamo Rhian Mello!
-
-##  
+<br/>
 Sou mais um apaixonado pela tecnologia que está migrando da áreal naval para desenvolvedor.
 Buscando recolocação no mercado de trabalho. 
 No momento me aprofundando em Front End.
@@ -16,6 +15,7 @@ Noções básicas como Python e Java.
  
  
 ## Ruby Gems
+<br/>
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg?raw=true">
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg?raw=true">
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg?raw=true">
