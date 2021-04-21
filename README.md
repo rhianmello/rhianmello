@@ -5,7 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhianmello&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhianmello&layout=compact)](https://github.com/rhianmello/github-readme-stats width="400" height="400")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?rhianmello=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br><br><br><br><br> 
 
