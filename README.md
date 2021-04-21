@@ -9,7 +9,19 @@ Seeking replacement in the job market.
 At the moment, delving into Front End.
 Basics like Python and Java.
  
+## Services Used
  
+* Github
+* Discord
+ 
+ 
+## Ruby Gems
+
+*HTML
+*CSS
+*Java Script
+*Python 
+
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rhianmello)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/rhian-mello-4b10a340/)
