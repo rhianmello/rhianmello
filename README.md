@@ -1,7 +1,8 @@
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
  
 # Olá! Me chamo Rhian Mello!
- 
+
+##  
 Sou mais um apaixonado pela tecnologia que está migrando da áreal naval para desenvolvedor.
 Buscando recolocação no mercado de trabalho. 
 No momento me aprofundando em Front End.
