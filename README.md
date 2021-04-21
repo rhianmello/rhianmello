@@ -1,9 +1,10 @@
 # Olá! Me chamo Rhian Mello!
 
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-<a  href ="https://github.com/rhianmello/github-readme-stats"> 
-  <img  align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=rhianmello&repo=github-README.md"/>
+<a  href ="https://github.com/anuraghazra//github-readme-stats"> 
+  <img  align="center" src ="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
  </a> 
 <a  href ="https://github.com/rhianmello/convoychat" > 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhianmello&repo=convoychat"/>
