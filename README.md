@@ -1,6 +1,8 @@
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
- # Olá! Me chamo Rhian Mello!
+# Olá! Me chamo Rhian Mello!
 <br/>
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/>  
+
 <img height="140em" src="https://camo.githubusercontent.com/b42f52fa1d5f934e6d0020100b43aa9c526a0b41e581001e85a4752e85eec814/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d636861727472657573652d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rhianmello&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
 <img height="140em" src="https://camo.githubusercontent.com/ac18c872ebd33ded86e02ec8f11ace02044c693a587280a5c17cc55e89e18793/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7261666162616c6c6572696e69266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rhianmello&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
  
