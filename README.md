@@ -20,7 +20,9 @@ Noções básicas como Python e Java.
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg?raw=true">
 <img align="right" width="56" height="56" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg?raw=true">
 <img align="right" width="56" height="56" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?raw=true">
+
 <br/>
+
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rhianmello)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/rhian-mello-4b10a340/)
