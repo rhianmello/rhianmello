@@ -1,4 +1,4 @@
-# Olá! Me chamo Rhian Mello!
+# Olá, bem-vindo!!!
 
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
 
@@ -6,7 +6,7 @@
   <img  align="center" src ="https://github-readme-stats.vercel.app/api?username=rhianmello&theme=dark&show_icons=true"/>
  </a> 
 <a  href ="https://github.com/anuraghazra/convoychat" > 
-  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhianmello&theme=dark&show_icons=true)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhianmello&theme=dark&show_icons=true
 "/>
  </a>
 
