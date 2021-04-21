@@ -2,12 +2,12 @@
 
 <img align="right" width="400" height="400" src="https://github.com/rhianmello/projeto-site/blob/main/img/p1.jpg?raw=true">
 
-< A  href =" https://github.com/anuraghazra/github-readme-stats " > 
+<a  href =" https://github.com/anuraghazra/github-readme-stats " > 
   < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = rhianmello & repo = github-leia-me-stats "/>
- </ a > 
-< a  href =" https://github.com/anuraghazra/convoychat " > 
-  < img  align =" center " src =" https: // github -readme-stats.vercel.app/api/pin/?username=rhianmello&repo = convoychat "/>
- </ a>
+ </a> 
+<a  href =" https://github.com/anuraghazra/convoychat " > 
+  <img  align =" center " src =" https: // github -readme-stats.vercel.app/api/pin/?username=rhianmello&repo = convoychat "/>
+ </a>
 
 <br><br><br><br><br> 
 
