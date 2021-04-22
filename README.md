@@ -37,11 +37,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+21968236878&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rhian.udm@gmail.com)
  
-## Contador de visitas
-<g-emoji class="g-emoji" alias="detective" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png">🕵️</g-emoji>
-<br/>
-<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-9CCC2D8WyDcD1Z75-9.gif' border='0' alt='acesso gratis'></a>
-  <br/>
-  <script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=9CCC2D8WyDcD1Z75'></script></div>
+
 
 - Obrigado pela visita!
