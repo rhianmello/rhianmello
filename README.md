@@ -40,6 +40,7 @@
 ## Contador de visitas
 <g-emoji class="g-emoji" alias="detective" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png">🕵️</g-emoji>
 <br/>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/31e783fd880a83f35e786f52823dca00112d544b4a1d8e4bbad7d8b576fb2158/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746574657573417261756a6f2f636f756e742e737667"><img src="https://camo.githubusercontent.com/31e783fd880a83f35e786f52823dca00112d544b4a1d8e4bbad7d8b576fb2158/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746574657573417261756a6f2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/rhianmello/count.svg" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/31e783fd880a83f35e786f52823dca00112d544b4a1d8e4bbad7d8b576fb2158/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746574657573417261756a6f2f636f756e742e737667">
+data-canonical-src="https://profile-counter.glitch.me/rhianmello/count.svg" style="max-width:100%;"></a>
 
 - Obrigado pela visita!
