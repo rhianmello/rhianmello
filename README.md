@@ -40,6 +40,8 @@
 ## Contador de visitas
 <g-emoji class="g-emoji" alias="detective" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png">🕵️</g-emoji>
 <br/>
-<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-9CCC2D8WyDcD1Z75-9.gif' border='0' alt='acesso gratis'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=9CCC2D8WyDcD1Z75'></script></div>
+<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-9CCC2D8WyDcD1Z75-9.gif' border='0' alt='acesso gratis'></a>
+  <br/>
+  <script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=9CCC2D8WyDcD1Z75'></script></div>
 
 - Obrigado pela visita!
